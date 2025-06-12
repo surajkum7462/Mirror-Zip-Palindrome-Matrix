@@ -1,5 +1,0 @@
-First row: A A A ... (length 51)
-
-Middle row: ... Z ... at position (25,25)
-
-Fully symmetric

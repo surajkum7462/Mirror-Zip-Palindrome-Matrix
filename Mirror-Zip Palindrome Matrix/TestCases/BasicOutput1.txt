@@ -1,3 +1,0 @@
-A B A
-B Z B
-A B A

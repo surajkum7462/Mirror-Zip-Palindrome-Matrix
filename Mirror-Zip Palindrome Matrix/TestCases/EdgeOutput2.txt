@@ -1,1 +1,0 @@
-Same idea, large symmetric matrix with 'Z' at (48, 48)
